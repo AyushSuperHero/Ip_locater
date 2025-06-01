@@ -28,8 +28,8 @@ Install the required Python library and clone the repository:
 ```bash
 pip install requests
 git clone https://github.com/AyushSuperHero/Ip_locater
-cd Ip_locater
-chmod +x ip_locator.py
+cd ip_locater
+chmod +x Ip_locator.py
 ```
 
 ---
@@ -39,6 +39,6 @@ chmod +x ip_locator.py
 hoe to use:-
 
 ```bash
-cd Ip_locater
-python3 ip_locater.py
+cd ip_locater
+python3 Ip_locater.py
 ```
